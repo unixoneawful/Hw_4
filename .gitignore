@@ -1,0 +1,4 @@
+.gitignore
+.idea
+hw
+__pycache__/
